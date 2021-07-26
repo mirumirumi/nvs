@@ -1,6 +1,6 @@
 {
   "name": "nvs",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Cross-platform solution for using multiple versions of node. Useful for compatibility testing",
   "keywords": [
     "use",
@@ -49,6 +49,6 @@
     "rimraf": "^2.7.1"
   },
   "engines": {
-    "node": ">=0.8"
+    "node": ">=0.10"
   }
 }
